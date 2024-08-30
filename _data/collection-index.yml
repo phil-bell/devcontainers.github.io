@@ -923,3 +923,8 @@
   contact: https://github.com/phil-bell/devcontainer-features/issues
   repository: https://github.com/phil-bell/devcontainer-features
   ociReference: ghcr.io/phil-bell/devcontainer-features
+- name: Dev Container Templates by Alex Wegener
+  maintainer: Alex Wegener
+  contact: https://github.com/lx-0/devcontainer-templates/issues
+  repository: https://github.com/lx-0/devcontainer-templates
+  ociReference: ghcr.io/lx-0/devcontainer-templates
